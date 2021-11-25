@@ -17,6 +17,7 @@ perform a variety of functions.
 
 
 The Admin, once logged in, has access to the following functionalities:
+
 0. View Your Profile
 1. Edit Your Profile
 2. View Course Details
@@ -37,6 +38,7 @@ The Admin, once logged in, has access to the following functionalities:
 
 
 Similarly, a Student can do the following:
+
 0. Set up New Password
 1. View Marksheet
 2. Unenroll from the Course (A notification will be sent to
