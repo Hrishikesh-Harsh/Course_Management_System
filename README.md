@@ -16,6 +16,7 @@ These Service classes contain all the methods that enable the users to
 perform a variety of functions.
 
 
+
 The Admin, once logged in, has access to the following functionalities:
 
 0. View Your Profile
@@ -49,6 +50,7 @@ the Professor)
 6. View Course Details
 7. View Total Students Currently Enrolled
 8. Logout
+
 
 
 - As you may also tell, it is entirely a menu-driven program.
