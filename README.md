@@ -1,5 +1,6 @@
 # Course_Management_System
 
+- Written in Java
 
 - The code consists of two interfaces: Person and Service. Admin and Student
 are the two kinds of users in the program. They have been modelled via
