@@ -18,39 +18,39 @@ perform a variety of functions.
 
 
 
-The Admin, once logged in, has access to the following functionalities:
+- The Admin, once logged in, has access to the following functionalities:
 
-0. View Your Profile
-1. Edit Your Profile
-2. View Course Details
-3. Edit Course Details
-4. View Profile of a Student
-5. Enroll a Student
-6. Unenroll a Student
-7. Insert Marks/Edit Marksheet
-8. View Marksheet
-9. Put up Course Content/Notice/Announcement
-10. Check messages
-11. View all Students currently enrolled
-12. Set up New Password
-13. Check and Take Action on Enrollment Requests
-14. Update Student Records
-15. View Total Students Currently Enrolled
-16. Logout
+  0. View Your Profile
+  1. Edit Your Profile
+  2. View Course Details
+  3. Edit Course Details
+  4. View Profile of a Student
+  5. Enroll a Student
+   6. Unenroll a Student
+  7. Insert Marks/Edit Marksheet
+  8. View Marksheet
+  9. Put up Course Content/Notice/Announcement
+  10. Check messages
+  11. View all Students currently enrolled
+  12. Set up New Password
+  13. Check and Take Action on Enrollment Requests
+  14. Update Student Records
+  15. View Total Students Currently Enrolled
+  16. Logout
 
 
-Similarly, a Student can do the following:
+- Similarly, a Student can do the following:
 
-0. Set up New Password
-1. View Marksheet
-2. Unenroll from the Course (A notification will be sent to
-the Professor)
-3. Send message to Admin
-4. Check Notices/Course Content
-5. View Professor's Profile
-6. View Course Details
-7. View Total Students Currently Enrolled
-8. Logout
+  0. Set up New Password
+  1. View Marksheet
+  2. Unenroll from the Course (A notification will be sent to
+      the Professor)
+  3. Send message to Admin
+  4. Check Notices/Course Content
+  5. View Professor's Profile
+  6. View Course Details
+  7. View Total Students Currently Enrolled
+  8. Logout
 
 
 
