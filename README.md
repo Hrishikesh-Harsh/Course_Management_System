@@ -62,7 +62,7 @@ first log-in, and can also be modified later on.
 
 - Of course, there is also the main class (titled
 “Course_Management”) that contains the main() method itself.
-Throughout the project, Data has been stored making extensive use of
+Throughout the project, data has been stored making extensive use of
 .txt files. What this enables the coder to do is to store multiple, multilined data in
 pure String format by using Writer and OutputStream classes, and then
 retrieve them using the Reader, Scanner, and InputStream classes.
